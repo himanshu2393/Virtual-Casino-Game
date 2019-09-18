@@ -3,7 +3,7 @@
 # VIRTUAL CASINO GAME
 # (C Graphics Project)
 
-<img src="roulette.png" width="200px" height="200px"></img> 
+<img src="roulette_cash.jpeg" width="200px" height="200px"></img> 
 
 </div>
 
