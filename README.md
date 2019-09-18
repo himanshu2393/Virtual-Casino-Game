@@ -9,6 +9,7 @@ VIRTUAL CASINO GAME
 
 </div>
 <img src="roulette_cash.jpg" width="200px" height="200px"> </img> 
+
 System Requirements:
 --------------------- 
 * Turbo C (Any version).  
