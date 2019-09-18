@@ -1,35 +1,25 @@
-## Welcome to the Github page for Virtual Casino Game
+<div align="center">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# VIRTUAL CASINO GAME
+# (C Graphics Project)
 
-### Markdown
+<img src="img/movie_cut.png" width="200px" height="200px"></img> 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</div>
 
-```markdown
-Syntax highlighted code block
+System Requirements:
+--------------------- 
+* Turbo C (Any version).  
+* Or DosBox
+* Or any other compiler capable of running C programs.
 
-# Header 1
-## Header 2
-### Header 3
+Execution Instructions:
+------------------------
+Just run the attached .c file using Ctrl+F9 or 'Run' from the menu in Turbo C.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/himanshu2393/virtual_casino_game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Instructions to Play the Game:
+------------------------------
+* Once the program is running, you will get a home screen to select the mode (single/multiplayer). 
+* Then you will be asked to enter your avatar name. Followed by entering your lucky number. 
+* Then as soon as you press any key the roulette begins to rotate and then the game begins to test your luck. 
+* If your entered lucky number matches with the number on the roulette then you win or else you lose.
