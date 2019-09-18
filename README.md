@@ -1,7 +1,9 @@
 <div align="center">
 
-# VIRTUAL CASINO GAME
-# (C Graphics Project)
+VIRTUAL CASINO GAME
+--------------------
+(C Graphics Project)
+---------------------
 
 <img src="roulette_cash.jpg" width="200px" height="200px"></img> 
 
